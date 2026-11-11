@@ -1,0 +1,257 @@
+timestamp_utc,rule,method,original_kwh,new_kwh,edited_at,note
+2009-10-25T01:00:00Z,CLOCK_SHIFT,time_shift_-60min,,0.434,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T01:15:00Z,CLOCK_SHIFT,time_shift_-60min,,0.358,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T01:30:00Z,CLOCK_SHIFT,time_shift_-60min,,0.176,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T01:45:00Z,CLOCK_SHIFT,time_shift_-60min,,0.581,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T02:00:00Z,CLOCK_SHIFT,time_shift_-60min,0.434,0.086,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T02:15:00Z,CLOCK_SHIFT,time_shift_-60min,0.358,0.093,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T02:30:00Z,CLOCK_SHIFT,time_shift_-60min,0.176,0.079,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T02:45:00Z,CLOCK_SHIFT,time_shift_-60min,0.581,0.097,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T03:00:00Z,CLOCK_SHIFT,time_shift_-60min,0.086,0.091,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T03:15:00Z,CLOCK_SHIFT,time_shift_-60min,0.093,0.124,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T03:30:00Z,CLOCK_SHIFT,time_shift_-60min,0.079,0.071,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T03:45:00Z,CLOCK_SHIFT,time_shift_-60min,0.097,0.074,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T04:00:00Z,CLOCK_SHIFT,time_shift_-60min,0.091,0.085,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T04:15:00Z,CLOCK_SHIFT,time_shift_-60min,0.124,0.059,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T04:30:00Z,CLOCK_SHIFT,time_shift_-60min,0.071,0.091,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T04:45:00Z,CLOCK_SHIFT,time_shift_-60min,0.074,0.108,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T05:00:00Z,CLOCK_SHIFT,time_shift_-60min,0.085,0.101,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T05:15:00Z,CLOCK_SHIFT,time_shift_-60min,0.059,0.090,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T05:30:00Z,CLOCK_SHIFT,time_shift_-60min,0.091,0.087,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T05:45:00Z,CLOCK_SHIFT,time_shift_-60min,0.108,0.065,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T06:00:00Z,CLOCK_SHIFT,time_shift_-60min,0.101,0.080,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T06:15:00Z,CLOCK_SHIFT,time_shift_-60min,0.090,0.115,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T06:30:00Z,CLOCK_SHIFT,time_shift_-60min,0.087,0.061,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T06:45:00Z,CLOCK_SHIFT,time_shift_-60min,0.065,0.087,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T07:00:00Z,CLOCK_SHIFT,time_shift_-60min,0.080,0.072,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T07:15:00Z,CLOCK_SHIFT,time_shift_-60min,0.115,0.161,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T07:30:00Z,CLOCK_SHIFT,time_shift_-60min,0.061,0.228,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T07:45:00Z,CLOCK_SHIFT,time_shift_-60min,0.087,0.180,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T08:00:00Z,CLOCK_SHIFT,time_shift_-60min,0.072,0.337,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T08:15:00Z,CLOCK_SHIFT,time_shift_-60min,0.161,0.354,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T08:30:00Z,CLOCK_SHIFT,time_shift_-60min,0.228,0.354,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T08:45:00Z,CLOCK_SHIFT,time_shift_-60min,0.180,0.082,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T09:00:00Z,CLOCK_SHIFT,time_shift_-60min,0.337,0.218,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T09:15:00Z,CLOCK_SHIFT,time_shift_-60min,0.354,0.507,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T09:30:00Z,CLOCK_SHIFT,time_shift_-60min,0.354,0.946,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T09:45:00Z,CLOCK_SHIFT,time_shift_-60min,0.082,0.556,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T10:00:00Z,CLOCK_SHIFT,time_shift_-60min,0.218,0.405,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T10:15:00Z,CLOCK_SHIFT,time_shift_-60min,0.507,0.876,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T10:30:00Z,CLOCK_SHIFT,time_shift_-60min,0.946,1.061,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T10:45:00Z,CLOCK_SHIFT,time_shift_-60min,0.556,0.742,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T11:00:00Z,CLOCK_SHIFT,time_shift_-60min,0.405,0.512,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T11:15:00Z,CLOCK_SHIFT,time_shift_-60min,0.876,0.575,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T11:30:00Z,CLOCK_SHIFT,time_shift_-60min,1.061,1.317,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T11:45:00Z,CLOCK_SHIFT,time_shift_-60min,0.742,0.925,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T12:00:00Z,CLOCK_SHIFT,time_shift_-60min,0.512,0.781,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T12:15:00Z,CLOCK_SHIFT,time_shift_-60min,0.575,0.516,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T12:30:00Z,CLOCK_SHIFT,time_shift_-60min,1.317,0.198,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T12:45:00Z,CLOCK_SHIFT,time_shift_-60min,0.925,0.136,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T13:00:00Z,CLOCK_SHIFT,time_shift_-60min,0.781,0.118,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T13:15:00Z,CLOCK_SHIFT,time_shift_-60min,0.516,0.151,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T13:30:00Z,CLOCK_SHIFT,time_shift_-60min,0.198,0.338,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T13:45:00Z,CLOCK_SHIFT,time_shift_-60min,0.136,0.478,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T14:00:00Z,CLOCK_SHIFT,time_shift_-60min,0.118,0.838,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T14:15:00Z,CLOCK_SHIFT,time_shift_-60min,0.151,0.528,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T14:30:00Z,CLOCK_SHIFT,time_shift_-60min,0.338,0.491,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T14:45:00Z,CLOCK_SHIFT,time_shift_-60min,0.478,0.272,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T15:00:00Z,CLOCK_SHIFT,time_shift_-60min,0.838,0.778,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T15:15:00Z,CLOCK_SHIFT,time_shift_-60min,0.528,0.699,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T15:30:00Z,CLOCK_SHIFT,time_shift_-60min,0.491,0.418,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T15:45:00Z,CLOCK_SHIFT,time_shift_-60min,0.272,0.851,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T16:00:00Z,CLOCK_SHIFT,time_shift_-60min,0.778,0.358,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T16:15:00Z,CLOCK_SHIFT,time_shift_-60min,0.699,0.386,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T16:30:00Z,CLOCK_SHIFT,time_shift_-60min,0.418,0.530,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T16:45:00Z,CLOCK_SHIFT,time_shift_-60min,0.851,0.661,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T17:00:00Z,CLOCK_SHIFT,time_shift_-60min,0.358,1.276,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T17:15:00Z,CLOCK_SHIFT,time_shift_-60min,0.386,0.857,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T17:30:00Z,CLOCK_SHIFT,time_shift_-60min,0.530,0.831,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T17:45:00Z,CLOCK_SHIFT,time_shift_-60min,0.661,0.756,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T18:00:00Z,CLOCK_SHIFT,time_shift_-60min,1.276,0.652,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T18:15:00Z,CLOCK_SHIFT,time_shift_-60min,0.857,0.619,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T18:30:00Z,CLOCK_SHIFT,time_shift_-60min,0.831,0.621,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T18:45:00Z,CLOCK_SHIFT,time_shift_-60min,0.756,0.590,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T19:00:00Z,CLOCK_SHIFT,time_shift_-60min,0.652,0.662,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T19:15:00Z,CLOCK_SHIFT,time_shift_-60min,0.619,0.539,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T19:30:00Z,CLOCK_SHIFT,time_shift_-60min,0.621,0.628,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T19:45:00Z,CLOCK_SHIFT,time_shift_-60min,0.590,0.581,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T20:00:00Z,CLOCK_SHIFT,time_shift_-60min,0.662,0.565,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T20:15:00Z,CLOCK_SHIFT,time_shift_-60min,0.539,0.563,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T20:30:00Z,CLOCK_SHIFT,time_shift_-60min,0.628,0.556,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T20:45:00Z,CLOCK_SHIFT,time_shift_-60min,0.581,0.501,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T21:00:00Z,CLOCK_SHIFT,time_shift_-60min,0.565,0.703,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T21:15:00Z,CLOCK_SHIFT,time_shift_-60min,0.563,0.397,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T21:30:00Z,CLOCK_SHIFT,time_shift_-60min,0.556,0.284,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T21:45:00Z,CLOCK_SHIFT,time_shift_-60min,0.501,0.138,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T22:00:00Z,CLOCK_SHIFT,time_shift_-60min,0.703,0.085,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T22:15:00Z,CLOCK_SHIFT,time_shift_-60min,0.397,0.152,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T22:30:00Z,CLOCK_SHIFT,time_shift_-60min,0.284,0.081,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T22:45:00Z,CLOCK_SHIFT,time_shift_-60min,0.138,0.083,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T23:00:00Z,CLOCK_SHIFT,time_shift_-60min,0.085,0.076,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T23:15:00Z,CLOCK_SHIFT,time_shift_-60min,0.152,0.092,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T23:30:00Z,CLOCK_SHIFT,time_shift_-60min,0.081,0.071,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-25T23:45:00Z,CLOCK_SHIFT,time_shift_-60min,0.083,0.092,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T00:00:00Z,CLOCK_SHIFT,time_shift_-60min,0.076,0.103,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T00:15:00Z,CLOCK_SHIFT,time_shift_-60min,0.092,0.138,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T00:30:00Z,CLOCK_SHIFT,time_shift_-60min,0.071,0.087,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T00:45:00Z,CLOCK_SHIFT,time_shift_-60min,0.092,0.072,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T01:00:00Z,CLOCK_SHIFT,time_shift_-60min,0.103,0.082,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T01:15:00Z,CLOCK_SHIFT,time_shift_-60min,0.138,0.074,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T01:30:00Z,CLOCK_SHIFT,time_shift_-60min,0.087,0.089,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T01:45:00Z,CLOCK_SHIFT,time_shift_-60min,0.072,0.061,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T02:00:00Z,CLOCK_SHIFT,time_shift_-60min,0.082,0.101,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T02:15:00Z,CLOCK_SHIFT,time_shift_-60min,0.074,0.136,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T02:30:00Z,CLOCK_SHIFT,time_shift_-60min,0.089,0.098,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T02:45:00Z,CLOCK_SHIFT,time_shift_-60min,0.061,0.092,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T03:00:00Z,CLOCK_SHIFT,time_shift_-60min,0.101,0.075,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T03:15:00Z,CLOCK_SHIFT,time_shift_-60min,0.136,0.071,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T03:30:00Z,CLOCK_SHIFT,time_shift_-60min,0.098,0.085,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T03:45:00Z,CLOCK_SHIFT,time_shift_-60min,0.092,0.075,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T04:00:00Z,CLOCK_SHIFT,time_shift_-60min,0.075,0.068,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T04:15:00Z,CLOCK_SHIFT,time_shift_-60min,0.071,0.141,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T04:30:00Z,CLOCK_SHIFT,time_shift_-60min,0.085,0.076,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T04:45:00Z,CLOCK_SHIFT,time_shift_-60min,0.075,0.116,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T05:00:00Z,CLOCK_SHIFT,time_shift_-60min,0.068,0.352,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T05:15:00Z,CLOCK_SHIFT,time_shift_-60min,0.141,0.307,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T05:30:00Z,CLOCK_SHIFT,time_shift_-60min,0.076,0.080,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T05:45:00Z,CLOCK_SHIFT,time_shift_-60min,0.116,0.633,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T06:00:00Z,CLOCK_SHIFT,time_shift_-60min,0.352,0.684,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T06:15:00Z,CLOCK_SHIFT,time_shift_-60min,0.307,0.399,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T06:30:00Z,CLOCK_SHIFT,time_shift_-60min,0.080,0.441,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T06:45:00Z,CLOCK_SHIFT,time_shift_-60min,0.633,0.345,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T07:00:00Z,CLOCK_SHIFT,time_shift_-60min,0.684,0.376,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T07:15:00Z,CLOCK_SHIFT,time_shift_-60min,0.399,0.357,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T07:30:00Z,CLOCK_SHIFT,time_shift_-60min,0.441,0.413,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T07:45:00Z,CLOCK_SHIFT,time_shift_-60min,0.345,0.340,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T08:00:00Z,CLOCK_SHIFT,time_shift_-60min,0.376,0.189,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T08:15:00Z,CLOCK_SHIFT,time_shift_-60min,0.357,0.086,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T08:30:00Z,CLOCK_SHIFT,time_shift_-60min,0.413,0.057,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T08:45:00Z,CLOCK_SHIFT,time_shift_-60min,0.340,0.084,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T09:00:00Z,CLOCK_SHIFT,time_shift_-60min,0.189,0.071,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T09:15:00Z,CLOCK_SHIFT,time_shift_-60min,0.086,0.093,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T09:30:00Z,CLOCK_SHIFT,time_shift_-60min,0.057,0.130,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T09:45:00Z,CLOCK_SHIFT,time_shift_-60min,0.084,0.101,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T10:00:00Z,CLOCK_SHIFT,time_shift_-60min,0.071,0.070,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T10:15:00Z,CLOCK_SHIFT,time_shift_-60min,0.093,0.062,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T10:30:00Z,CLOCK_SHIFT,time_shift_-60min,0.130,0.091,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T10:45:00Z,CLOCK_SHIFT,time_shift_-60min,0.101,0.058,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T11:00:00Z,CLOCK_SHIFT,time_shift_-60min,0.070,0.081,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T11:15:00Z,CLOCK_SHIFT,time_shift_-60min,0.062,0.070,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T11:30:00Z,CLOCK_SHIFT,time_shift_-60min,0.091,0.088,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T11:45:00Z,CLOCK_SHIFT,time_shift_-60min,0.058,0.133,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T12:00:00Z,CLOCK_SHIFT,time_shift_-60min,0.081,0.097,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T12:15:00Z,CLOCK_SHIFT,time_shift_-60min,0.070,0.077,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T12:30:00Z,CLOCK_SHIFT,time_shift_-60min,0.088,0.063,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T12:45:00Z,CLOCK_SHIFT,time_shift_-60min,0.133,0.081,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T13:00:00Z,CLOCK_SHIFT,time_shift_-60min,0.097,0.068,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T13:15:00Z,CLOCK_SHIFT,time_shift_-60min,0.077,0.081,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T13:30:00Z,CLOCK_SHIFT,time_shift_-60min,0.063,0.062,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T13:45:00Z,CLOCK_SHIFT,time_shift_-60min,0.081,0.139,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T14:00:00Z,CLOCK_SHIFT,time_shift_-60min,0.068,0.085,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T14:15:00Z,CLOCK_SHIFT,time_shift_-60min,0.081,0.089,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T14:30:00Z,CLOCK_SHIFT,time_shift_-60min,0.062,0.103,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T14:45:00Z,CLOCK_SHIFT,time_shift_-60min,0.139,0.068,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T15:00:00Z,CLOCK_SHIFT,time_shift_-60min,0.085,0.083,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T15:15:00Z,CLOCK_SHIFT,time_shift_-60min,0.089,0.075,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T15:30:00Z,CLOCK_SHIFT,time_shift_-60min,0.103,0.080,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T15:45:00Z,CLOCK_SHIFT,time_shift_-60min,0.068,0.068,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T16:00:00Z,CLOCK_SHIFT,time_shift_-60min,0.083,0.384,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T16:15:00Z,CLOCK_SHIFT,time_shift_-60min,0.075,0.348,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T16:30:00Z,CLOCK_SHIFT,time_shift_-60min,0.080,0.102,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T16:45:00Z,CLOCK_SHIFT,time_shift_-60min,0.068,0.097,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T17:00:00Z,CLOCK_SHIFT,time_shift_-60min,0.384,0.066,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T17:15:00Z,CLOCK_SHIFT,time_shift_-60min,0.348,0.081,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T17:30:00Z,CLOCK_SHIFT,time_shift_-60min,0.102,0.325,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T17:45:00Z,CLOCK_SHIFT,time_shift_-60min,0.097,0.383,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T18:00:00Z,CLOCK_SHIFT,time_shift_-60min,0.066,0.384,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T18:15:00Z,CLOCK_SHIFT,time_shift_-60min,0.081,0.341,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T18:30:00Z,CLOCK_SHIFT,time_shift_-60min,0.325,0.333,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T18:45:00Z,CLOCK_SHIFT,time_shift_-60min,0.383,0.344,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T19:00:00Z,CLOCK_SHIFT,time_shift_-60min,0.384,0.342,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T19:15:00Z,CLOCK_SHIFT,time_shift_-60min,0.341,0.151,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T19:30:00Z,CLOCK_SHIFT,time_shift_-60min,0.333,0.318,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T19:45:00Z,CLOCK_SHIFT,time_shift_-60min,0.344,0.294,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T20:00:00Z,CLOCK_SHIFT,time_shift_-60min,0.342,0.325,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T20:15:00Z,CLOCK_SHIFT,time_shift_-60min,0.151,0.515,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T20:30:00Z,CLOCK_SHIFT,time_shift_-60min,0.318,0.577,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T20:45:00Z,CLOCK_SHIFT,time_shift_-60min,0.294,0.548,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T21:00:00Z,CLOCK_SHIFT,time_shift_-60min,0.325,0.491,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T21:15:00Z,CLOCK_SHIFT,time_shift_-60min,0.515,0.318,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T21:30:00Z,CLOCK_SHIFT,time_shift_-60min,0.577,0.308,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T21:45:00Z,CLOCK_SHIFT,time_shift_-60min,0.548,0.295,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T22:00:00Z,CLOCK_SHIFT,time_shift_-60min,0.491,0.307,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T22:15:00Z,CLOCK_SHIFT,time_shift_-60min,0.318,0.210,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T22:30:00Z,CLOCK_SHIFT,time_shift_-60min,0.308,0.375,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T22:45:00Z,CLOCK_SHIFT,time_shift_-60min,0.295,0.295,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T23:00:00Z,CLOCK_SHIFT,time_shift_-60min,0.307,0.073,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T23:15:00Z,CLOCK_SHIFT,time_shift_-60min,0.210,0.100,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T23:30:00Z,CLOCK_SHIFT,time_shift_-60min,0.375,0.109,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-26T23:45:00Z,CLOCK_SHIFT,time_shift_-60min,0.295,0.118,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-27T00:00:00Z,CLOCK_SHIFT,time_shift_-60min,0.073,0.564,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-27T00:15:00Z,CLOCK_SHIFT,time_shift_-60min,0.100,0.083,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-27T00:30:00Z,CLOCK_SHIFT,time_shift_-60min,0.109,0.120,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-27T00:45:00Z,CLOCK_SHIFT,time_shift_-60min,0.118,0.066,2026-11-11T22:31:46Z,reading labelled +60 min off
+2009-10-01T08:30:00Z,STUCK,linear+register,0.310,0.208,2026-11-11T22:31:46Z,
+2009-10-01T08:45:00Z,STUCK,linear+register,0.310,0.198,2026-11-11T22:31:46Z,
+2009-10-01T09:00:00Z,STUCK,linear+register,0.310,0.188,2026-11-11T22:31:46Z,
+2009-10-01T09:15:00Z,STUCK,linear+register,0.310,0.177,2026-11-11T22:31:46Z,
+2009-10-01T09:30:00Z,STUCK,linear+register,0.310,0.167,2026-11-11T22:31:46Z,
+2009-10-01T09:45:00Z,STUCK,linear+register,0.310,0.157,2026-11-11T22:31:46Z,
+2009-10-01T10:00:00Z,STUCK,linear+register,0.310,0.147,2026-11-11T22:31:46Z,
+2009-10-01T10:15:00Z,STUCK,linear+register,0.310,0.136,2026-11-11T22:31:46Z,
+2009-10-01T10:30:00Z,STUCK,linear+register,0.310,0.126,2026-11-11T22:31:46Z,
+2009-10-01T10:45:00Z,STUCK,linear+register,0.310,0.116,2026-11-11T22:31:46Z,
+2009-10-01T11:00:00Z,STUCK,linear+register,0.310,0.106,2026-11-11T22:31:46Z,
+2009-10-01T11:15:00Z,STUCK,linear+register,0.310,0.096,2026-11-11T22:31:46Z,
+2009-10-01T11:30:00Z,STUCK,linear+register,0.310,0.085,2026-11-11T22:31:46Z,
+2009-10-01T11:45:00Z,STUCK,linear+register,0.310,0.075,2026-11-11T22:31:46Z,
+2009-10-01T12:00:00Z,STUCK,linear+register,0.310,0.065,2026-11-11T22:31:46Z,
+2009-10-01T12:15:00Z,STUCK,linear+register,0.310,0.055,2026-11-11T22:31:46Z,
+2009-10-02T08:30:00Z,GAP,linear+register,,0.405,2026-11-11T22:31:46Z,
+2009-10-02T08:45:00Z,GAP,linear+register,,0.386,2026-11-11T22:31:46Z,
+2009-10-02T09:00:00Z,GAP,linear+register,,0.366,2026-11-11T22:31:46Z,
+2009-10-02T09:15:00Z,GAP,linear+register,,0.347,2026-11-11T22:31:46Z,
+2009-10-02T09:30:00Z,GAP,linear+register,,0.328,2026-11-11T22:31:46Z,
+2009-10-02T09:45:00Z,GAP,linear+register,,0.309,2026-11-11T22:31:46Z,
+2009-10-02T10:00:00Z,GAP,linear+register,,0.290,2026-11-11T22:31:46Z,
+2009-10-02T10:15:00Z,GAP,linear+register,,0.271,2026-11-11T22:31:46Z,
+2009-10-02T10:30:00Z,GAP,linear+register,,0.251,2026-11-11T22:31:46Z,
+2009-10-02T10:45:00Z,GAP,linear+register,,0.232,2026-11-11T22:31:46Z,
+2009-10-02T11:00:00Z,GAP,linear+register,,0.213,2026-11-11T22:31:46Z,
+2009-10-02T11:15:00Z,GAP,linear+register,,0.194,2026-11-11T22:31:46Z,
+2009-10-02T11:30:00Z,GAP,linear+register,,0.175,2026-11-11T22:31:46Z,
+2009-10-02T11:45:00Z,GAP,linear+register,,0.156,2026-11-11T22:31:46Z,
+2009-10-02T12:00:00Z,GAP,linear+register,,0.136,2026-11-11T22:31:46Z,
+2009-10-02T12:15:00Z,GAP,linear+register,,0.117,2026-11-11T22:31:46Z,
+2009-10-06T20:30:00Z,SPIKE,linear+register,3.023,0.558,2026-11-11T22:31:46Z,
+2009-10-11T16:00:00Z,GAP,linear,,0.159,2026-11-11T22:31:46Z,
+2009-10-14T21:15:00Z,SPIKE,linear+register,2.379,0.640,2026-11-11T22:31:46Z,
+2009-10-19T03:45:00Z,SPIKE,linear+register,2.439,0.084,2026-11-11T22:31:46Z,
+2009-10-20T01:30:00Z,ZERO_RUN,linear+register,0.000,0.077,2026-11-11T22:31:46Z,
+2009-10-20T01:45:00Z,ZERO_RUN,linear+register,0.000,0.080,2026-11-11T22:31:46Z,
+2009-10-20T02:00:00Z,ZERO_RUN,linear+register,0.000,0.082,2026-11-11T22:31:46Z,
+2009-10-20T02:15:00Z,ZERO_RUN,linear+register,0.000,0.084,2026-11-11T22:31:46Z,
+2009-10-20T11:15:00Z,GAP,linear+register,,0.472,2026-11-11T22:31:46Z,
+2009-10-24T12:45:00Z,NEGATIVE,linear+register,-0.685,0.555,2026-11-11T22:31:46Z,
+2009-10-24T13:00:00Z,NEGATIVE,linear+register,-0.517,0.454,2026-11-11T22:31:46Z,
+2009-10-24T13:15:00Z,NEGATIVE,linear+register,-0.221,0.352,2026-11-11T22:31:46Z,
+2009-10-24T13:30:00Z,NEGATIVE,linear+register,-0.183,0.250,2026-11-11T22:31:46Z,
+2009-10-28T23:00:00Z,SPIKE,linear+register,289.270,0.126,2026-11-11T22:31:46Z,
+2009-10-31T18:30:00Z,STUCK,profile+register,0.675,0.516,2026-11-11T22:31:46Z,
+2009-10-31T18:45:00Z,STUCK,profile+register,0.675,0.430,2026-11-11T22:31:46Z,
+2009-10-31T19:00:00Z,STUCK,profile+register,0.675,0.462,2026-11-11T22:31:46Z,
+2009-10-31T19:15:00Z,STUCK,profile+register,0.675,0.449,2026-11-11T22:31:46Z,
+2009-10-31T19:30:00Z,STUCK,profile+register,0.675,0.485,2026-11-11T22:31:46Z,
+2009-10-31T19:45:00Z,STUCK,profile+register,0.675,0.434,2026-11-11T22:31:46Z,
+2009-10-31T20:00:00Z,STUCK,profile+register,0.675,0.417,2026-11-11T22:31:46Z,
+2009-10-31T20:15:00Z,STUCK,profile+register,0.675,0.393,2026-11-11T22:31:46Z,
+2009-10-31T20:30:00Z,STUCK,profile+register,0.675,0.422,2026-11-11T22:31:46Z,
+2009-10-31T20:45:00Z,STUCK,profile+register,0.675,0.442,2026-11-11T22:31:46Z,
+2009-10-31T21:00:00Z,STUCK,profile+register,0.675,0.597,2026-11-11T22:31:46Z,
+2009-10-31T21:15:00Z,STUCK,profile+register,0.675,0.491,2026-11-11T22:31:46Z,
+2009-10-31T21:30:00Z,STUCK,profile+register,0.675,0.434,2026-11-11T22:31:46Z,
+2009-10-31T21:45:00Z,STUCK,profile+register,0.675,0.351,2026-11-11T22:31:46Z,
+2009-10-31T22:00:00Z,STUCK,profile+register,0.675,0.352,2026-11-11T22:31:46Z,
+2009-10-31T22:15:00Z,STUCK,profile+register,0.675,0.382,2026-11-11T22:31:46Z,
+2009-10-31T22:30:00Z,STUCK,profile+register,0.675,0.338,2026-11-11T22:31:46Z,
+2009-10-31T22:45:00Z,STUCK,profile+register,0.675,0.324,2026-11-11T22:31:46Z,
