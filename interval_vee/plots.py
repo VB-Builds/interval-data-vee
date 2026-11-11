@@ -164,9 +164,9 @@ def post_figure(results, summ, path: Path) -> None:
     pal = DARK
     fig = plt.figure(figsize=(9.6, 7.0), dpi=100, facecolor=pal["bg"])
     lim = results["longest_gap_within_limit"]
-    fig.text(0.04, 0.948, "Smart-meter gaps: where an estimate stops being billable", fontsize=14, fontweight="bold",
+    fig.text(0.04, 0.948, "Smart-meter gaps: how long an estimate stays within 1 %", fontsize=14, fontweight="bold",
              color=pal["text"])
-    fig.text(0.04, 0.912, "Open data: one real household, 2008-2010 (UCI, CC BY 4.0) | weather: Open-Meteo.com",
+    fig.text(0.04, 0.912, "Open data: one real household, 2008-2010 (UCI, CC BY 4.0); faults simulated | weather: Open-Meteo.com",
              fontsize=12, color=pal["muted"])
     ax1 = fig.add_axes([0.105, 0.50, 0.865, 0.33])
     _style(ax1, pal)
@@ -176,7 +176,7 @@ def post_figure(results, summ, path: Path) -> None:
     ax1.set_ylim(0.004, 40)
     ax1.set_xlabel("")
     ax1.axhline(results["billing_limit_pct"], color=pal["red"], lw=2, ls="--")
-    ax1.text(0.0, results["billing_limit_pct"] * 1.3, "1 % limit", color=pal["red"], fontsize=12)
+    ax1.text(0.0, results["billing_limit_pct"] * 1.3, "1 % (own yardstick)", color=pal["red"], fontsize=12)
     ax1.text(len(LEN_LABELS) - 1, 0.0075, "with register: < 0.01 %", color=pal["accent"], fontsize=12, ha="right")
     ax1.legend(frameon=False, fontsize=12, labelcolor=pal["text"], loc="upper left", bbox_to_anchor=(0.12, 1.02))
     ax1.set_title(f"Error one gap adds to the monthly kWh: below 1 % up to {lim['vee']}", fontsize=13,
@@ -192,7 +192,7 @@ def post_figure(results, summ, path: Path) -> None:
     ax2.tick_params(axis="y", labelsize=12)
     ax2.set_ylim(0, 118)
     ax2.set_yticks([0, 50, 100])
-    ax2.set_title(f"Recall per rule, {sum(results['faults_injected'].values())} injected faults (%)", fontsize=13,
+    ax2.set_title(f"Recall per rule, {sum(results['faults_injected'].values())} simulated faults injected (%)", fontsize=13,
                   color=pal["text"], loc="left")
     fig.savefig(path, dpi=100, facecolor=pal["bg"])
     plt.close(fig)

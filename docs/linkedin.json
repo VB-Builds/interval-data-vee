@@ -1,5 +1,5 @@
 {
-  "claim": "Smart-meter gap repair on real data: estimates stay billable up to 8 h without register reads.",
+  "claim": "Smart-meter gap repair on real data: estimates stay within 1 % of the month up to an 8 h gap.",
   "data_label": "open data: UCI household dataset (CC BY 4.0), 2008-2010 | weather: Open-Meteo | faults simulated",
   "stats": [
     [
@@ -18,7 +18,7 @@
       "accent"
     ]
   ],
-  "limit": "One household and simulated faults; not tested on a utility meter-data system.",
+  "limit": "One household, simulated faults and my own 1 % yardstick; not tested on a utility meter-data system.",
   "alt": "Dark chart. Top: error one estimated gap adds to the monthly energy versus gap length, crossing a 1 % line between 8 h and 1 day without register reads and staying under 0.01 % with them. Bottom: detection recall per rule, 80 to 100 %.",
   "hashtags": [
     "#Smartmeter",
@@ -28,5 +28,5 @@
     "#IoT",
     "#OpenSource"
   ],
-  "post": "Before a smart meter's 15-minute data can be billed, someone has to deal with the gaps, spikes, stuck values, duplicates and clocks that missed the daylight-saving switch. The open question is how long a gap can get before the estimate is no longer fair to bill.\n\nI built an open-source VEE tool (validation, estimation, editing) and measured it on 34 months of a real household's open data. I injected 416 known faults into the meter file. Eight rules flag the faults; linear interpolation, a similar-day profile or a temperature regression fills them; every edit keeps its original value, method, rule and time in an audit trail.\n\nMeasured:\n- Without register reads, an estimated gap of up to 8 h stays under 1 % of the month's kWh (p90); at 1 day one gap in ten exceeds it, at 7 days 8 %.\n- With daily register reads, monthly energy after repair was at most 0.77 % off; as received, up to 384 %.\n- 12 of 12 clock shifts were found and undone exactly.\n\nNot verified: one household and simulated faults, no utility meter-data system. And for 15-minute tariffs no method was good enough past an hour or two.\n\nWhere do you draw the line between estimating and asking for a re-read?\n\nCode: https://github.com/Usernamepersonperson/interval-data-vee"
+  "post": "Before a smart meter's 15-minute data can be billed, someone has to deal with the gaps, spikes, stuck values, duplicates and clocks that missed the daylight-saving switch. The open question is how long a gap can get before the estimate is no longer fair to bill.\n\nI built an open-source VEE tool (validation, estimation, editing) and measured it on 34 months of a real household's open data, with 416 simulated faults injected into the meter file. Eight rules flag the faults; linear interpolation, a similar-day profile or a temperature regression fills them; every edit keeps its original value, method, rule and time in an audit trail.\n\nMeasured:\n- Without register reads, an estimated gap of up to 8 h stays under 1 % of the month's kWh (p90, my own yardstick); at 1 day one gap in ten exceeds it, at 7 days 8 %.\n- With daily register reads, monthly energy after repair was at most 0.77 % off; as received, up to 384 %.\n- 12 of 12 clock shifts were found and undone exactly.\n\nNot verified: one household and simulated faults, no utility meter-data system. And for 15-minute tariffs no method was good enough past an hour or two.\n\nWhere do you draw the line between estimating and asking for a re-read?\n\nCode: https://github.com/Usernamepersonperson/interval-data-vee"
 }
