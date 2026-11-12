@@ -148,4 +148,4 @@ flowchart LR
 
 ## Licence
 
-MIT, Copyright (c) 2026 Victor Bonilla. See `LICENSE`. Data files keep their own licences (CC BY 4.0, see Data sources).
+MIT, Copyright (c) 2026 VB-Builds. See `LICENSE`. Data files keep their own licences (CC BY 4.0, see Data sources).
